@@ -64,4 +64,13 @@ Sabiendo que las pilas AA tiene una capacidad aproximada de 2500mA:
 <br>
 
 ## Montaje
+
+### Componentes:
+![alt text](https://github.com/drosell271/Buzon-Telegram/blob/main/Montaje/Componentes.png)
+
+
+### Prototipo funcional:
+![alt text](https://github.com/drosell271/Buzon-Telegram/blob/main/Montaje/Prototipo.png)
+
+
 En progreso....
