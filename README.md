@@ -5,12 +5,12 @@
 | Componente  | Unidades | Precio | Link |
 |:---|:---:|--:|:--:|
 | Wemos D1 Mini | 1 | 1,90€ | [Link](https://es.aliexpress.com/item/32688079351.html?spm=a2g0o.order_list.0.0.7d19194dl5ZCmY&gatewayAdapt=glo2esp) |
-| Resistencias 1MΩ | 2 | <0,01€ | [Link](https://es.aliexpress.com/item/32636020144.html?spm=a2g0o.order_list.0.0.7d19194dl5ZCmY&gatewayAdapt=glo2esp) |
-| Resistencias 10kΩ | 2 | <0,01€ | [Link](https://es.aliexpress.com/item/32636020144.html?spm=a2g0o.order_list.0.0.7d19194dl5ZCmY&gatewayAdapt=glo2esp)  |
+| Resistencias 10kΩ | 1 | <0,01€ | [Link](https://es.aliexpress.com/item/32636020144.html?spm=a2g0o.order_list.0.0.7d19194dl5ZCmY&gatewayAdapt=glo2esp)  |
 | Microinterruptor | 2 | 0,20€ | [Link](https://es.aliexpress.com/item/32273125391.html?spm=a2g0o.order_list.0.0.7d19194dl5ZCmY&gatewayAdapt=glo2esp) |
 | Caja para pilas AA | 1 | 0,20€ | [Link](https://es.aliexpress.com/item/4000980622098.html?spm=a2g0o.order_list.0.0.7d19194dl5ZCmY&gatewayAdapt=glo2esp) |
+| Otros | -- | 0.20€ | -- |
 
-Coste total: 2,35€
+Coste total: 2,50€
 
 <br>
 
