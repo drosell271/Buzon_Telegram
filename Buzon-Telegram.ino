@@ -122,7 +122,7 @@ void battery_check()
   }
   voltaje = voltaje / 10;
   Serial.printf("Voltaje: %f \n", voltaje);
-  if (voltaje <= 2.75)
+  if (voltaje <= 2.2)
   {
     Serial.println("Batería Baja");
     bot.sendMessage(CHAT_ID, "Batería baja \xF0\x9F\x94\x8B", "");
